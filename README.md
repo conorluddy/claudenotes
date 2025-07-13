@@ -39,6 +39,3 @@ claudenotes/
 
 Each directory contains its own README.md with specific guidance and examples. Browse the directories to find relevant resources for your Claude Code workflow.
 
-## Contributing
-
-Feel free to contribute your own findings, prompts, and tips by creating pull requests. Please follow the existing structure and documentation format.
