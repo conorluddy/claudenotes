@@ -1,5 +1,7 @@
 # Building an AI-Native iOS App: The AIAccess Framework Approach
 
+(Written by Claude based on a workflow I'm currently exploring)
+
 ## Introduction
 
 As AI becomes increasingly integrated into software development workflows, we're facing a fundamental challenge: how do we enable AI assistants to effectively interact with and understand mobile applications? Traditional approaches rely on screenshots and visual recognition, but these methods are slow, error-prone, and resource-intensive. 
