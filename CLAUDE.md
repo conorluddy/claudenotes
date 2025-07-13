@@ -36,3 +36,8 @@ As per user preferences:
 - Never push directly to main branch
 - Use git-flow methodology with feature branches and PRs
 - Main branch represents production releases
+
+## Maintenance Guidelines
+
+- When adding new content, keep the main TOC in sync
+- The repo base URL is "https://github.com/conorluddy/claudenotes" for any deep links
