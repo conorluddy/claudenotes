@@ -1,6 +1,6 @@
 # Building an AI-Native iOS App: The AIAccess Framework Approach
 
-(Written by Claude based on a workflow I'm currently exploring)
+_(Note: Written by Claude based on a workflow I'm currently exploring)_
 
 ## Introduction
 
