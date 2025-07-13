@@ -26,7 +26,7 @@ claudenotes/
 ## Table of Contents
 
 ### Featured Content
-- **[AI Access Patterns](Notes/aiaccess.md)** - Strategies for effectively accessing and utilizing AI capabilities in development workflows
+- **[AI Access Patterns](https://github.com/conorluddy/claudenotes/blob/main/Notes/AIAccess.md))** - Strategies for effectively accessing and utilizing AI capabilities in development workflows
 
 ### Directory Contents
 - [Notes/](Notes/) - General findings and tips
