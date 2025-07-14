@@ -22,7 +22,7 @@ When AI assistants attempt to interact with mobile applications, they typically 
 
 ### Real-World Impact
 
-In our Brazilian Jiu-Jitsu training app, these limitations meant that AI assistants couldn't effectively:
+In our app, these limitations meant that AI assistants couldn't effectively:
 - Navigate between training modules
 - Search for specific techniques
 - Understand user preferences and settings
